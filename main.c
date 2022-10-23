@@ -4,6 +4,7 @@
 int main(void)
 {
     int a=0,b=1;
+    printf("Windows OC");
     printf("Choose library:\n1-first.\n2-second,\n3-quit\n");
     while(b)
     {
